@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes and addresses to the Honourable House of Commons assembled in Parliament, made this present year 1673, concerning popery and other grievances.  March 29, 1673, the Parliaments address to His Majesty for the removal of grievances in England and Ireland</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38291</idno><idno type="EEBO-CITATION">10693592</idno>
+  <idno type="VID">45509</idno>
+  <idno type="EEBO-PROQUEST">2240889167</idno>
+  
+            <idno type="STC">Wing E2757</idno>
+            <idno type="STC">ESTC R28607</idno>
+            <idno type="OCLC">10693592</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes and addresses to the Honourable House of Commons assembled in Parliament, made this present year 1673, concerning popery and other grievances.  March 29, 1673, the Parliaments address to His Majesty for the removal of grievances in England and Ireland</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45509:1"/>
+            <pb n="1" facs="tcp:45509:1"/>
+            <head>VOTES and ADDRESSES of the Honourable House of COM<g ref="char:EOLhyphen"/>MONS assembled in PARLIAMENT, made this present year 1673, concern<g ref="char:EOLhyphen"/>ing <hi>Popery</hi> and other Grievances.</head>
+            <div type="day">
+               <head>March 29. 1673.</head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_address">
+                           <head> The Parliaments Address to his Majesty for the Removal of Grievances in <hi>England</hi> and <hi>Ireland.</hi>
+                           </head>
+                           <p>WEE your Majesties most loyal Subjects the Commons in this pre<g ref="char:EOLhyphen"/>sent Parliament assembled, conceiving our selves bound in necessa<g ref="char:EOLhyphen"/>ry duty to your Majesty, and in discharge of the Trust reposed in Us truly to inform your Majesty of the Estate of your Kingdom. And though we are abundantly satisfied that it hath been your Royal Will and Pleasure that your Subjects should be governed according to the Laws and Customs of this Realm, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> finding that contrary to your Majesties gracious Intention some Grievances and Abuses are crept in, We crave leave humbly to represent them to your Majesties knowledge and desire.</p>
+                           <p n="1">1. That the Imposition of <hi>12d. per</hi> Chaldron upon Coals for the pro<g ref="char:EOLhyphen"/>viding of Convoys, by virtue of an Order from Council, dated the 15th of <hi>May</hi> 1672, may be recalled, and all Bonds taken by virtue thereof cancelled.</p>
+                           <p n="2">2. That your Majesty's Proclamation of the 4th of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>cember</hi> 1672, for preventing of Disorders which may be commi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ted by Soldiers, and whereby the Soldiers now in your Majesties Service are in a manner ex<g ref="char:EOLhyphen"/>empted from the ordinary course o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Justice, may likewise be recalled.</p>
+                           <p n="3">3. And whereas great Complaints have been made out of several parts of this Kingdom of divers Abuses committed in quart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ring of Souldiers,
+<pb n="2" facs="tcp:45509:2"/> That your Majesty would be pleased to give Order to redress those Abu<g ref="char:EOLhyphen"/>ses; and in particular that no Souldiers be hereafter quartered in any pri<g ref="char:EOLhyphen"/>vate houses; and that due satisfaction may be given to the Inn-keepers or Victuallers where they lye before they remove.</p>
+                           <p n="4">4. And since the continuance of Souldiers in this Nation will necessa<g ref="char:EOLhyphen"/>rily produce many Inconveniences to your Majesties Subjects, We do humbly present it as our Petition and Advice, That when this present War is ended, all your Souldiers which have been raised since the last Session of Parliament, may be disbanded.</p>
+                           <p n="5">5. That your Majesty would be likewise pleased to consider of the Ir<g ref="char:EOLhyphen"/>regularities and Abuses in Pressing Souldiers, and to give Order for the Prevention thereof for the future.</p>
+                           <p n="6">6. And although it hath been the course of former Parliaments to de<g ref="char:EOLhyphen"/>sire Redress in their Grievances before they proceeded to give a Supply; Yet we have so full assurance of your Majesties Tenderness and Com<g ref="char:EOLhyphen"/>passion towards your People, that we humbly prostrate our selves at your Majesties feet with these our Petitions, desiring your Majesty to take them into your Princely Consideration, and to give such Orders for the Relief of your Subjects, and the Removing these Pressures, as shall seem best to your Royal Wisdom.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_address">
+                           <head>Address touching Ireland.</head>
+                           <p>WEE your Majesties most loyal Subjects the Commons in this pre<g ref="char:EOLhyphen"/>sent Parliament assembled, taking into Consideration the great Calamities which have formerly befallen your Majesties Subjects of the Kingdom of <hi>Ireland</hi> from the Popish Recusanrs there, who for the most part are profest Enemies to the Protestant Religion, and the English In<g ref="char:EOLhyphen"/>terest; and how they make use of your Majesties gracious Disposition and Clemency, are at this time grown more insolent and presumptuous than formerly, to the apparant danger of that Kingdom, and your Ma<g ref="char:EOLhyphen"/>jesties Protestant Subjects there, the Consequence whereof may likewise prove very fatal to this your Majesties Kingdom of <hi>England</hi> if not timely prevented. And having seriously weighed what Remedies may be most properly applied to these growing Distempers, do in all humility present your Majesty with these our Petitions.</p>
+                           <p n="1">1. That for the establishment and quieting the Possessions of your Majesties Subjects in that Kingdom, your Majesty would be pleased to maintain the Act of Settlement, and Explanatory Act thereupon, And to recal the Commission of Enquiry into Irish Affairs, bearing date the 17th of <hi>January</hi> last, as containing many new and extraordinary Powers, not only to the prejudice of particular persons, whose Estates and Titles are thereby made liable to be questioned; but in a manner to the overthrow
+<pb n="3" facs="tcp:45509:2"/> of the Acts of Settlement; And if pursued, may be the occasion of great Charge and Attendance to many of your Subjects in <hi>Ireland,</hi> and shake the Peace and Security of the whole.</p>
+                           <p n="2">2▪ That your Majesty would give order that no Papist be either con<g ref="char:EOLhyphen"/>tinued or hereafter admitted to be Judges, Justices of the Peace, Sheriffs, Coroners or Maiors, Sovereigns or Portreives in that Kingdom.</p>
+                           <p n="3">3. That the titular Popish Archbishops, Bishops, Vicars-General, Abbots, and all other exercising Ecclesiastical Jurisdiction by the Popes Authority, and in particular <hi>Peter Talbot,</hi> pretended Archbishop of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> for his notorious Disloyalty to your Majesty, &amp; Disobedience and Contempt of your Laws, may be commanded by Proclamation forthwith to depart out of <hi>Ireland,</hi> and all other your Majesties Dominions, or otherwise to be prosecuted according to Law. And that all Covents, Se<g ref="char:EOLhyphen"/>minaries, and Publick Popish Schools may be dissolved and suppressed, and the Secular Priests commanded to depart under the penalty.</p>
+                           <p n="4">4. That no Irish Papist be admitted to inhabit in any part of that Kingdom, unless duly licensed according to the aforesaid Acts of Settle<g ref="char:EOLhyphen"/>ment; And that your Majesty would be pleased to recal your Letters of the 26th of <hi>February</hi> 1671, And the Proclamation thereupon, whereby general Licence is given to such Papists as inhabit in Corporations there.</p>
+                           <p n="5">5. That your Majesties Letters of the 28th of <hi>September</hi> 1672, and the Order of Council thereupon, whereby your Subjects are required not to prosecute any Actions against the <hi>Irish</hi> for any Wrongs or Injuries com<g ref="char:EOLhyphen"/>mitted during the late Rebellion, may likewise be recalled.</p>
+                           <p n="6">6. That Colonel <hi>Talbot</hi> (who hath notoriously assumed to himself the title of <hi>Agent of the Roman Catholicks in Ireland</hi>) be immediately dis<g ref="char:EOLhyphen"/>missed out of all Command Military and Civil, and forbidden access to your Majesties Court.</p>
+                           <p n="7">7. That your Majestie would be pleased from time to time out of your Princely Wisdom to give such further Order and Directions to the Lord Lieutenant, or other Governor of <hi>Ireland</hi> for the time being, as may best conduce to the Encouragement of the <hi>English Planters</hi> and <hi>Protestants</hi> In<g ref="char:EOLhyphen"/>terest there, and the suppression of the Insolencies and Disorders of the <hi>Irish Papists</hi> there.</p>
+                           <p>These our humble Desires we present to your Majesty, as the best means to preserve the Peace and Safety of that your Kingdom, which hath been so much of late in danger by the Practices of the said <hi>Irish Papists,</hi> particu<g ref="char:EOLhyphen"/>larly <hi>Richard</hi> and <hi>Peter Talbot;</hi> and we doubt not but your Majesty wil find the happy Effects thereof, to the great Satisfaction and Security of your Majesties Person and Government, which of all earthly things is most dear to us your Majesties most loyal Subjects.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_order">
+                           <pb n="4" facs="tcp:45509:3"/>
+                           <head>Ordered <hi>October</hi> 20. 1673.</head>
+                           <p>THAT an Address be made to his Majesty by such Members of this House as are of his Majesties Privy-Council, to acquaint his Maje<g ref="char:EOLhyphen"/>sty, That it is the humble Desire of this House, That the intended Mar<g ref="char:EOLhyphen"/>riage of his Royal Highness with the Dutchess of <hi>Modena</hi> be not consum<g ref="char:EOLhyphen"/>mated; And that he may not be married to any Person but of the <hi>Pro<g ref="char:EOLhyphen"/>testant</hi> Religion.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>And the same day the Parliament was prorogued till Monday next.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Parliamentary_address">
+                           <head>The Address of the Parliament to his Majesty.</head>
+                           <p>WEE your Majesty's most humble and loyal Subjects the Com<g ref="char:EOLhyphen"/>mons in this present Parliament assembled, being full of assurance of your Majesties gracious Intentions to provide for the Establishment of Religion, and the preservation of your People in Peace and Security; and foreseeing the dangerous Consequences which may follow the Marriage of his Royal Highness the Duke of <hi>York</hi> with the Princess of <hi>Modena,</hi> or any other of the <hi>Popish</hi> Religion, We hold our selves bound in Conscience and Duty to represent the same to your sacred Majesty, not doubting but these constant Testimonies which we have given your Majesty of our true and loyal Affections to your sacred Person will easily gain a belief that these our humble Desires proceed from Hearts still full of the same Affections toward your sacred Majesty, and with intentions to establish your Royal Government upon those true Supports of the <hi>Protestant</hi> Reli<g ref="char:EOLhyphen"/>gion, and the Hearts of your People, with all humility desiring your Majesty to take the same into your Princely Consideration, and to re<g ref="char:EOLhyphen"/>lieve your Subjects from those Fears and Apprehensions which at present they lie under from the progress hath been made in that Treaty.</p>
+                           <p>We do therefore humbly intreat your Majesty to consider, that if this Match do proceed, it will be a means to disquiet the minds of your <hi>Pro<g ref="char:EOLhyphen"/>testant</hi> Subjects at home, and to fill them with endless Jealousies and Discontents; and will bring your Majesty into such Alliances abroad as will prove highly prejudicial, if not destructive to the Interest of the very <hi>Protestant</hi> Religion it self.</p>
+                           <p>And we find by sad experience that such Marriages have encreased and encouraged Popery in this Kingdom, and given opportunity to Priests and Jesuites to propagate their Opinions, and seduce great numbers of your Majesty's Subjects.</p>
+                           <pb n="5" facs="tcp:45509:3"/>
+                           <p>And we do already observe how much the Party is animated with the hopes of this Match, which were lately discouraged by your gracious Con<g ref="char:EOLhyphen"/>cessions in the last Meeting in this Parliament.</p>
+                           <p>That we greatly fear this may be an occasion to lessen the Affections of the People to his Royal Highness, who is so nearly related to the Crown; and whose Honour and Esteem we desire may alwayes be in<g ref="char:EOLhyphen"/>tirely preserved.</p>
+                           <p>That for another Age more at the least this Kingdom will be under the continual apprehensions of the Growth of Popery, and the Danger of the Protestant Religion.</p>
+                           <p>Lastly, We consider that this Princess having so near a Relation and Kindred to many Eminent Persons of the Court of <hi>Rome,</hi> may give them great opportunities to promote their Designs, and carry on their Practi<g ref="char:EOLhyphen"/>ces among us, and by the same means penitrate into your Majesties most Secret Counsels, and more easily discover the state of the whole Kingdom.</p>
+                           <p>And finding that by the Opinions of very Learned-Men it is general<g ref="char:EOLhyphen"/>ly admitted that such Treaties and Contracts by <hi>Proxies</hi> are dissolvable, of which there are several Instances to be produced, We do in all hum<g ref="char:EOLhyphen"/>bleness beseech your Majesty to put a Stop to the Consummation of this intended Marriage.</p>
+                           <p>And this we do the more importunately desire, because we have not yet the happiness to see any Issue of your Majesty's that may succeed in the Government of these Kingdoms, which Blessings we most heartily pray Almighty God in his due time to bestow upon your Majesty and these Kingdom, to the unspeakable Joy and Comfort of all your Majesty's Subjects, who desire nothing more than to continue under the Reigns of your Majesty and your Royal Posterity for ever.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="day">
+               <head>October 27, 1673.</head>
+               <p>A Message from the King by the Usher of the Black-Rod. The House returning, Mr. Speaker reports the King and Lord Chancellor's Speeches, The Consideration thereof adjourned till Friday.</p>
+               <p>A Debate touching the next Speaker's continuance in the Chair. A Question being put, <hi>Whether the Question upon the said Debate should be now put?</hi> Past in the Negative.</p>
+               <p>Resolved, <hi>That for the better Solemnization of the fifth of</hi> November <hi>next, the House meet in a Body, and go from thence to St.</hi> Margarets, <hi>and that Dr.</hi> Stillingfleet <hi>be desired to Preach.</hi>
+               </p>
+               <p>A Bill for Repairing of Churches, and better payment of Petty-Tithes, read, and Ordered a second Reading.</p>
+               <pb n="6" facs="tcp:45509:4"/>
+               <p>Orders for issuing out new Writs to supply Vacant Places.</p>
+               <p>A Committee appointed to Inspect the Journals.</p>
+               <p>The Grand Committee for Religion, Grievances, Trade, and Courts of Justice appointed. And then the House Adjourned till Thursday morning.</p>
+            </div>
+            <div type="day">
+               <head>October 30. 1673.</head>
+               <p>Mr. Secretary <hi>Coventry</hi> brought from his Majesty an Answer to the Address presented to him touching the Duke of <hi>York,</hi> as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="Royal_response">
+                           <opener>
+                              <signed>C. R.</signed>
+                           </opener>
+                           <p>HIS Majesty having received an Address from the House of Com<g ref="char:EOLhyphen"/>mons, presenting their humble Desire that the Intended Marriage betwixt his Royal Highness and the Princess of <hi>Modena</hi> may not be Con<g ref="char:EOLhyphen"/>summated, Commandeth this Answer to be returned, <hi>That be perceived the House of Commons have wanted a full Information of this matter, the Marriage not being barely Intended, but Compleated according to the Forms used amongst Princes, And by his Royal Consent and Authority; Nor could He in the least suppose it disagreeable to his House of Commons, His Royal Highness having been in the view of the World for several months engaged in a Treaty of Marriage with another Catholick Princess, and yet a Parliament held during the time, and not the Least Exception taken at it.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>An Address ordered to be presented to his Majesty concerning a Mar<g ref="char:EOLhyphen"/>riage between his Royal Highness and the Princess of <hi>Modena,</hi> And a Committee appointed for that purpose.</p>
+               <p>A Committee appointed for preparing a Bill for a General Test to di<g ref="char:EOLhyphen"/>stinguish between <hi>Protestants</hi> and <hi>Papists;</hi> and those that shall refuse to take it, be incapable to enjoy any Office Military or Civil; or to sit in either House of Parliament, or to come within five miles of the Court.</p>
+               <p>The House adjourned till Monday,</p>
+            </div>
+            <div type="day">
+               <head>October 31. 1673.</head>
+               <p>
+                  <hi>Resolved, That the House considering the present Condition of the Nation, will not take into any further Debate the Consideration of any Aid or Sup<g ref="char:EOLhyphen"/>plies, or Charge upon the Subjects, before the time of payment of the Eigh<g ref="char:EOLhyphen"/>teen months Assessment, granted by a late Act of Parliament, intituled,</hi> An Act for raising the Sum of Twelve hundred thirty eight thousand and seven hundred and fifty pounds for the Supply of his Majesties present Occasions, <hi>be expended; Except it shall appear that the Obstinacy of the Dutch shall render it necessary; Nor before this Kingdom be Effectu<g ref="char:EOLhyphen"/>ally Secured from Popery and Popish Counsels, and the other present Grievan<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s be redressed.</hi> And,</p>
+               <p>An Address ordered to be presented to his Majesty for a Fast to be observed throughout the Nation, and a Committee appointed for that purpose.</p>
+               <pb n="7" facs="tcp:45509:4"/>
+               <p>A further Address to be presented to his Majesty concerning the Mar<g ref="char:EOLhyphen"/>riage of the Duke of <hi>York</hi> with the Dutchess of <hi>Modena,</hi> And the Privy-Counsellors of this House to attend his Majesty to know his Pleasure when He will be attended therewith. And they adjourned till to mor<g ref="char:EOLhyphen"/>row in the afternoon.</p>
+            </div>
+            <div type="day">
+               <head>November 3. 1673.</head>
+               <p>A Report from the Committe appointed for that purpose was made for an Address to be presented to his Majesty, to appoint a General Fast to be observed throughout the Nation; And the Concurrence of the Lords to be desired thereto.</p>
+               <p>A Bill for Repair of Churches, and for the better Recovery of Small-Tithes, read a second time and committed.</p>
+               <p>The standing-Army voted a Grievance.</p>
+               <p>A Committee appointed to prepare an Address to be presented to his Majesty, to shew how this standing-Army is a Grievance; And then ad<g ref="char:EOLhyphen"/>journed till three of the clock afternoon. Mr. Speaker and the House went to attend his Majesty at <hi>White<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all</hi> with the Address: who returning, Mr. Speaker reports, <hi>That it was a matter he would take into his present Consideration, and would return speedily an Answer.</hi>
+               </p>
+               <p>And then the House adjourned till to morrow morning eight of the clock.</p>
+            </div>
+            <div type="day">
+               <head>November 4. 1673.</head>
+               <p>The House of Commons having ordered an Address to be made to his Majesty, shewing that the standing-Army was a Grievance, and a Burden to the Nation; and did intend that day to wait on his Majesty to present it: But his Majesty was in his Robes in the House of Peers, and the Lords hastning to Him, the Black-Rod being sent to the Commons-House to command the Speaker and the Commons to come to his Majesty to the House of Peers; but it so hapned that the Speaker and the Black-Rod met both at the Commons-House door; the Speaker being within the House, the door was commanded to be shut, and they cryed to the Chair, others said the Black-Rod was at the door to command them to wait on the King to the House of Peers: but the Speaker was hurried to the Chair. Then was moved,</p>
+               <list>
+                  <item>1. <hi>That our Alliance with</hi> France <hi>was a Grievance.</hi>
+                  </item>
+                  <item>2. <hi>That the evil Counsel about the King was a Grievance to this Nation.</hi>
+                  </item>
+                  <item>3. <hi>That the Lord</hi> Lauderdale <hi>was a person that was a grievance to this Nation, and not fit to be intrusted or imployed in any Office or Place of Trust, but to be removed.</hi>
+                  </item>
+               </list>
+               <p>Whereupon they cryed, <hi>To the Question.</hi> But the Black-Rod knock<g ref="char:EOLhyphen"/>ing very earnestly at the Door, the Speaker rose out of the Chair and went away in a confusion.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
